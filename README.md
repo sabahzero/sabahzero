@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Last updated `r format(Sys.time(), '%d %B, %Y')`
+Last updated <relative-time datetime="2014-04-01T16:30:00-08:00">
