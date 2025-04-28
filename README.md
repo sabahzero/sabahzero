@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Last updated: %%pandoc_version%%.
+Last updated: April 28 2025
